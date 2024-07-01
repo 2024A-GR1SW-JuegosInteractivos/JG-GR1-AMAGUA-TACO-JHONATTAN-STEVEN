@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Fondo
+    uniqueID: 1128543749
+    locked: 0
+  - name: Encima
+    uniqueID: 472254887
+    locked: 0
